@@ -1,0 +1,10 @@
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\bin\Debug\Monitor Suhu (Record).exe.config
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\bin\Debug\Monitor Suhu (Record).exe
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\bin\Debug\Monitor Suhu (Record).pdb
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\bin\Debug\ZedGraph.dll
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor Suhu (Record).csprojResolveAssemblyReference.cache
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor_Suhu__Record_.Form1.resources
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor_Suhu__Record_.Properties.Resources.resources
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor Suhu (Record).csproj.GenerateResource.Cache
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor Suhu (Record).exe
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu (Record)\Monitor Suhu (Record)\obj\Debug\Monitor Suhu (Record).pdb

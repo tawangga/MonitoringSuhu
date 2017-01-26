@@ -1,0 +1,9 @@
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\Monitor Suhu.exe.config
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\DB_SUHU.mdf
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\DB_SUHU_log.ldf
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\Monitor Suhu.exe
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\Monitor Suhu.pdb
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.csprojResolveAssemblyReference.cache
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.exe
+c:\users\rudi tawangga\documents\visual studio 2012\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.pdb
+C:\Users\Rudi Tawangga\Documents\Visual Studio 2012\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\ZedGraph.dll
